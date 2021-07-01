@@ -1,4 +1,7 @@
 # DDOL3Cutter
+![5145de39ea127d64560cc585afb19108](https://user-images.githubusercontent.com/81800589/124090734-13f68180-da90-11eb-83e9-4a3d3f014e23.jpg)
+
+
 똘삼커터는 크라우드소싱 편집에 최적화된 동영상 타임라인 자르기 툴입니다.
 CSV 파일로 MP4 및 MKV 파일을 빠르게 잘라낼 수 있습니다.
 림월드 팀 똘찌 동영상 편집 작업에 사용되었습니다.
