@@ -1,3 +1,10 @@
 # DDOL3Cutter
 
-후원하기: https://twip.kr/codepsy
+## 사용방법
+1. 릴리즈 파일 다운로드()후 압축풀기
+2. 
+
+
+## 후원하기
+트윕: https://twip.kr/codepsy
+여러분들의 소중한 후원은 팀 똘찌의 얼쭈 먹방에 사용됩니다.
