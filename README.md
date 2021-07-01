@@ -8,7 +8,7 @@ CSV 파일로 MP4 및 MKV 파일을 빠르게 잘라낼 수 있습니다.
 
 
 ### 사용방법
-1. 릴리즈 파일 다운로드(https://github.com/CodePsy-2001/DDOL3Cutter/releases)후 압축풀기
+1. 릴리즈 파일 다운로드(https://github.com/CodePsy-2001/DDOL3Cutter/releases) 후 압축풀기
 2. 동영상 파일, CSV 파일, interval 값, 내보낼 폴더, 내보낼 이름 순서대로 입력
 3. ffmpeg.exe 를 주어진 값에 맞게 실행시켜 동영상을 초스피드로 잘라줍니다. (15시간 UHD MP4 영상 기준 클립 200개 생성 30분컷 가능)
 
